@@ -1,0 +1,9 @@
+website:
+  partners: #https://newbreedtraining.com/partners/
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: FreeLance
+
